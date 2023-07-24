@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bfe54bad7b11a34bb894f8d358c2671, type: 3}
+  m_Name: Lang_Russian
+  m_EditorClassIdentifier: 
+  Name: Russian
+  Chars: 3004310432043304340435043604370438043a043b043c043d043e043f044004410442044304440445044604470448044c044b044e044f043f0021002e002c00
+  CharsExtended: 2d005e002b005f002800510429002f00390431003200330034003500360037003800390030003d002a002500220049044a044d043a003b005b007b005d007d00
+  Pinyin: 0
